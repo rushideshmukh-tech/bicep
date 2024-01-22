@@ -1,2 +1,2 @@
 # Extensive Bicep Repo 
-![Bicep Logo](media/bicep-logo.png)
+![Bicep Logo](images/bicep.png)
